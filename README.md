@@ -3,7 +3,7 @@
 This repo contains code for our paper https://arxiv.org/abs/2008.13735  [**Quantum Entropy Scoring for Fast Robust Mean Estimation and Improved Outlier Detection**]
 
 
-[Jingqiu Ding], [Sam Hopkins](http://www.samuelbhopkins.com/), [David Steurer](https://www.dsteurer.org)
+[Jingqiu Ding](Jingqiu.Ding@inf.ethz.ch), [Sam Hopkins](http://www.samuelbhopkins.com/), [David Steurer](https://www.dsteurer.org)
 
 ## Code structure
 * [`Main.py`](Main.py) contains the main file to run for testing different algorithms on different models.
