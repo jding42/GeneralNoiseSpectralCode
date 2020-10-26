@@ -1,9 +1,13 @@
 # GeneralNoiseSpectralCode
 
+This repo contains code for our paper https://arxiv.org/abs/2008.13735  [**Quantum Entropy Scoring for Fast Robust Mean Estimation and Improved Outlier Detection**]
+
+
+[Jingqiu Ding], [Sam Hopkins](http://www.samuelbhopkins.com/), [David Steurer](https://www.dsteurer.org)
+
 ## Code structure
+* [`Main.py`](Main.py) contains the main file to run for testing different algorithms on different models.
+* [`Model.py`](Model.py) generate various spiked matrix models used in the experiment
+*  [`truncationPCA.py,nbwAlgo.py,sawAlgo.py`]: algorithms by truncation PCA, non-backtracking walk estimator, and self-avoiding walk estimator
 
-  Main.py: the main file to run, test different algorithms on different models
-  Model.py: generate various spiked matrix models
-  truncationPCA.py,nbwAlgo.py,sawAlgo.py: algorithms by truncation PCA, non-backtracking walk estimator, and self-avoiding walk estimator
-
-  dataProcess.py: the file to run for data processing and plotting
+*  [`dataProcess.py`](dataProcess.py): the file to run for data processing and plotting
