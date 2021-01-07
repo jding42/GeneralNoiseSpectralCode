@@ -1,6 +1,6 @@
 # GeneralNoiseSpectralCode
 
-This repo contains code for our paper https://arxiv.org/abs/2008.13735  [**Quantum Entropy Scoring for Fast Robust Mean Estimation and Improved Outlier Detection**]
+This repo contains code for our paper https://arxiv.org/abs/2008.13735  [**Estimating Rank-One Spikes from Heavy-Tailed Noise via Self-Avoiding Walks**]
 
 
 [Jingqiu Ding](Jingqiu.Ding@inf.ethz.ch), [Sam Hopkins](http://www.samuelbhopkins.com/), [David Steurer](https://www.dsteurer.org)
